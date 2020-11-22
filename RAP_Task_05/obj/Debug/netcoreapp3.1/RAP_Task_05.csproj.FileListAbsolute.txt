@@ -1,0 +1,12 @@
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.AssemblyInfoInputs.cache
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.AssemblyInfo.cs
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.csproj.CoreCompileInputs.cache
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.exe
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.deps.json
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.runtimeconfig.json
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.runtimeconfig.dev.json
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.dll
+E:\Пр\TrainingPractice_01\RAP_Task_05\bin\Debug\netcoreapp3.1\RAP_Task_05.pdb
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.dll
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.pdb
+E:\Пр\TrainingPractice_01\RAP_Task_05\obj\Debug\netcoreapp3.1\RAP_Task_05.genruntimeconfig.cache
